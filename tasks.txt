@@ -1,0 +1,18 @@
+REST API - JSON
+
+Tasks decided to achieve
+
+GET /api/users - List all users - Done
+GET /users - Gets all the users in html doc
+
+GET /api/users/1 - Get the user with ID 1 - Done
+GET /api/users/2 - Get the user with ID 2 - Done
+
+Dynamic Parameter
+GET /api/users/:id - the colon represents that it is dynamic - Done
+
+POST /api/users - Create new user - Done
+
+PATCH /api/users/1 - Edit the user with ID 1 - Done
+
+DELETE /api/users/1 - Delete the user with user_id = 1 - Done
